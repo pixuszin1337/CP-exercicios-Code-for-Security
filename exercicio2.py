@@ -4,7 +4,7 @@
 # Exiba o resultado com 1 casa decimal.
 
 
-def CalculadoraIMC(imc = float):
+def CalculadoraIMC(imc: float):
     
     if imc >= 30.0:
 
