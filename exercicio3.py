@@ -1,6 +1,6 @@
 import os
 
-def conversor(escolha_conversao, quantidade_dinheiro = float):
+def conversor(escolha_conversao, quantidade_dinheiro: float):
 
     if escolha_conversao == 1:
     
