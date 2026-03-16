@@ -16,7 +16,7 @@ def classificador(valor_triangulo_1, valor_triangulo_2, valor_triangulo_3):
 
         return "Triangulo Isosceles"
     
-    elif valor_triangulo_3 != valor_triangulo_2 != valor_triangulo_3:
+    elif valor_triangulo_1 != valor_triangulo_2 != valor_triangulo_3:
 
         return "Triangulo Escaleno"
 
